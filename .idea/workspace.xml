@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a787604-5b8f-4e0d-a7d6-526ae651db10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/CreateRoomPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/src/components/CreateRoomPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +83,7 @@
       <workItem from="1611790445957" duration="346000" />
       <workItem from="1611792038112" duration="272000" />
       <workItem from="1611792345014" duration="2547000" />
-      <workItem from="1611876001324" duration="854000" />
+      <workItem from="1611876001324" duration="4964000" />
     </task>
     <servers />
   </component>
